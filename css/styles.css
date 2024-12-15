@@ -299,6 +299,7 @@ img {
 }
 
 .nav-list {
+    padding: 24px 0; 
     display: flex; /* Горизонтальне розташування пунктів меню */
     list-style: none;
     margin: 0;
