@@ -62,7 +62,6 @@ img {
 }
 
 .header-logo .logo-part {
-    margin-right: 76px;
     color: #2e2f42;
     letter-spacing: 0.03em;
     line-height: 1.17;
@@ -145,8 +144,6 @@ img {
     border: none;
     min-width: 169px;
     height: 56px;
-    margin-bottom: 48px;
-    margin-top: 188px;
     margin-left: auto;
     margin-right: auto;
     line-height: 1.5;
@@ -190,8 +187,6 @@ img {
     letter-spacing: 0.02em;
 }
 
-
-.h-adv,
 .h-our-team,
 .portfolio-title {
     font-weight: 700;
@@ -203,6 +198,9 @@ img {
 
 .h-adv {
     padding: 120px 0;
+    font-weight: 700;
+    font-size: 36px;
+    color: #2e2f42;
 }
 .our-team {
     background: #f4f4fd;
@@ -234,8 +232,6 @@ img {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    padding-bottom: 72px;
-    margin-top: 120px;
 }
 
 .strategy {
@@ -254,8 +250,6 @@ img {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    padding-bottom: 72px;
-    padding-top: 120px;
 }
 
 .team-member-info {
@@ -274,8 +268,7 @@ img {
 .mark-guerrero {
     border-radius: 0px 0px 4px 4px; 
     background-color: #FFFFFF;
-    margin-bottom: 120px;
-    margin-top: 72px;
+
 }
 
 .footer-logo {
@@ -286,7 +279,6 @@ img {
 }
 
 .page-header {
-    padding: 24px 0;
     border-bottom: 1px solid #e7e9fc;
     display: flex;
     justify-content: space-between; /* Розташування логотипу, меню та контактів */
@@ -351,7 +343,6 @@ img {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    margin-bottom: 120px;
 }
 
 .portfolio-info {
@@ -368,7 +359,6 @@ img {
 .nav-list {
     display: flex;
     gap: 40px;
-    padding-left: 76px;
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
@@ -382,7 +372,4 @@ img {
 
 .increase {
    width: 264px; 
-   padding-top: 16px;
-   padding-bottom: 100px;
-   margin-top: 140px;
 }
